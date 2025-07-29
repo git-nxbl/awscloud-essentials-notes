@@ -3,7 +3,7 @@
 Notes from the AWS Cloud Practitioner Essentials Skillbuilder Course
 
 ## Table of Contents
-1. [Module 1: Introduction to the Cloud](#module-1-introduction-to-the-cloud.md)
+1. [Module 1: Introduction to the Cloud](module-1-introduction-to-the-cloud.md)
 2. [Module 2: Compute in the Cloud](#module-2-compute-in-the-cloud.md)
 3. [Module 3: Exploring Compute Services](#module-3-exploring-compute-services.md)
 4. [Module 4: Going Global](#module-4-going-global.md)
