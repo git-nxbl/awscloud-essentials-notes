@@ -1,7 +1,3 @@
-Here you go — the **complete, clean, bullet-pointed Markdown summary of Module 2: Compute in the Cloud**, including both parts you've provided:
-
----
-
 ## Module 2: Compute in the Cloud
 
 ### Amazon EC2 Overview
@@ -123,6 +119,3 @@ Here you go — the **complete, clean, bullet-pointed Markdown summary of Module
 
 * Whether using the **Console**, **CLI**, or **SDK**, **AWS APIs are always being called** behind the scenes.
 
----
-
-Let me know when you're ready for Module 3 — I’ll keep it in the same clean format.
